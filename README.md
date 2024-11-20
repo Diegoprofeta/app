@@ -1,5 +1,5 @@
 #ACESSO AO SITE
 
 ```
-https://lockednet.github.io/loja/
+https://Diegoprofeta.github.io/app/
 ```
